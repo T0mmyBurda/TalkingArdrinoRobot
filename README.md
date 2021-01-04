@@ -1,4 +1,4 @@
-#Talking Ardrino Robot
+# Talking Ardrino Robot
 
 This project is for a talking Robot powered by a an Arduino micro-controller. There are versions the analog and the digital inputs of the sound sensor. I personally found that the sound sensor was not accurate enough to use the analog input to detect syllables but the digital version works great as long as the sound is VERY loud.
 
